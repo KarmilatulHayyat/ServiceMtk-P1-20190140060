@@ -8,6 +8,7 @@ using System.Text;
 namespace ServiceMtk_P1_20190140060
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
+    //
     public class Matematika : IMatematika
     {
         public int Bagi(int a, int b)
